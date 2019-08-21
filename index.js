@@ -1,3 +1,6 @@
+// Tikeshwar Deep
+
+
 var noOfSounds = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < noOfSounds; i++) {
