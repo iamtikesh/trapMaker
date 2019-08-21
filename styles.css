@@ -104,4 +104,16 @@ p {
   background-color: white;
 }
 
+@media (max-width: 1000px){
+   body {
+     padding: 7% 2%;
+     text-align: center;
+   }
 
+  audio {
+    width: 90%;
+    height: 7rem;;
+    font-size: 7rem;
+  }
+
+ }
