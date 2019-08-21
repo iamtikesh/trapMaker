@@ -104,8 +104,4 @@ p {
   background-color: white;
 }
 
-@media (maxwidth:720px) {
-  body {
-    padding: 7% 3%;
-  }
-}
+
