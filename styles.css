@@ -2,7 +2,7 @@
 
 body {
   text-align: center;
-  background-color: #d40000bf;
+  background-color: #d42500bf;
   padding: 7% 15%;
 }
 
@@ -102,4 +102,10 @@ p {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+@media (maxwidth:720px) {
+  body {
+    padding: 7% 3%;
+  }
 }
